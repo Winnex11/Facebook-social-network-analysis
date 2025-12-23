@@ -72,4 +72,4 @@ This project demonstrates how network analysis can reveal hidden patterns within
 ## Files in This Repository
 - `facebook_network_analysis.ipynb` – Full Python analysis and visualizations
 - `report/facebook_network_analysis_report.pdf` – Detailed analytical report
-- `https://snap.stanford.edu/data/ego-Facebook.html` – Link to Dataset
+- https://snap.stanford.edu/data/ego-Facebook.html – Link to Dataset
